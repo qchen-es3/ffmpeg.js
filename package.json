@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg",
+  "version": "0.1.1",
+  "description": "FFMpeg for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qchen-es3/ffmpeg.js.git"
+  },
+  "author": "ES3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qchen-es3/ffmpeg.js/issues"
+  },
+  "homepage": "https://github.com/qchen-es3/ffmpeg.js#readme"
+}
